@@ -1,0 +1,7 @@
+#Mon Jan 23 14:53:51 CST 2017
+base.0=/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd245707d4fa2084e8e2929579b4b41db840f1f9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_541558f8c1196c79466e932f7f129ef04e89c396/classes.dex
+base.1=/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_541558f8c1196c79466e932f7f129ef04e89c396
+file.0=/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd245707d4fa2084e8e2929579b4b41db840f1f9/classes.dex

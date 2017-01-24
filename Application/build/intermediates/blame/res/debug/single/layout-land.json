@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-land/ui_layer_with_portrait_support.xml",
+        "source": "/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.10.0/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-land/settings_button.xml",
+        "source": "/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.10.0/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-land/fragment_camera2_basic.xml",
+        "source": "/Users/Garrett/Downloads/Camera2Basic/Application/src/main/res/layout-land/fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-land/back_button.xml",
+        "source": "/Users/Garrett/Downloads/Camera2Basic/Application/build/intermediates/exploded-aar/com.google.vr/sdk-base/1.10.0/res/layout-land/back_button.xml"
+    }
+]
